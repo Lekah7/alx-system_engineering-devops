@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'A-B-C' 'N-O-P'
+tr 'N-O-P' 'A-B-C'
